@@ -1,6 +1,6 @@
 <h3 align="center">
-  <img src="https://raw.githubusercontent.com/wearesoulana/.github/main/profile/soulana.png" width="250" alt="wired Logo"/><br/>
-  <img src="https://raw.githubusercontent.com/wiredwiredwired/.github/refs/heads/main/profile/transparent.png" height="25" width="20"/>
+  <img src="./soulana.png" width="250" alt="Soulana Logo"/><br/>
+  <img src="./transparent.png" height="25" width="20"/>
   <br/>
 </h3>
 
