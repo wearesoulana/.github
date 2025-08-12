@@ -1,8 +1,7 @@
 <h3 align="center">
-  <img src="https://raw.githubusercontent.com/wiredium/.github/cdacb60e5c013f06c578a467b3477441bbc64204/profile/wired.png" width="250" alt="wired Logo"/><br/>
+  <img src="https://raw.githubusercontent.com/wearesoulana/.github/main/profile/soulana.png" width="250" alt="wired Logo"/><br/>
   <img src="https://raw.githubusercontent.com/wiredwiredwired/.github/refs/heads/main/profile/transparent.png" height="25" width="20"/>
   <br/>
-  <b>Soulana</b>
 </h3>
 
 <p align="center">
@@ -29,4 +28,13 @@ Soulana is a privacy‑focused identity verification system that lets users prov
 
 Issues and PRs are welcome. Check open tasks in the repos above and help us push privacy‑preserving identity forward.
 
+
+<div align="center">
+  <br/>
+  <p>
+    <sub>Built with ♥ by</sub><br/>
+    <b><a href="http://wiredium.com/" target="_blank" rel="noreferrer">wiredium</a></b>
+  </p>
+  <img src="https://raw.githubusercontent.com/wiredium/.github/cdacb60e5c013f06c578a467b3477441bbc64204/profile/wired.png" width="200" alt="wired logo"/>
+</div>
 
